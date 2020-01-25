@@ -8,4 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the Gota Morishita's personal page.
+I am Gota Morishita, currently working for CyberAgent, Inc. in Tokyo, Japan.
+
+# Research Interests
+* Computational Economics
+  * Algorithmic Game Theory
+* Reinforcement Learning
+* Information Theory
