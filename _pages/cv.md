@@ -16,9 +16,9 @@ Education
 
 Teaching Experience
 ======
-2015 Apr. - 2015 Aug. Keio University TA, Probability theory
-2015 Sep. - 2016 Feb. Keio University TA, the theory of communication and network
-2017 Sep. - 2018 Apr. Keio Univeristy TA, a personal tutor of an international student
+* 2015 Apr. - 2015 Aug. Keio University TA, Probability theory
+* 2015 Sep. - 2016 Feb. Keio University TA, the theory of communication and network
+* 2017 Sep. - 2018 Apr. Keio Univeristy TA, a personal tutor of an international student
 
 Work experience
 ======
