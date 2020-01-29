@@ -5,4 +5,4 @@ venue: "AAAI Workshop on Reinforcement Learning in Games, New York, New York USA
 collection: publications
 permalink: /publication/online_learning_bidding_agent_fs
 ---
-to be appeared
+to appear
