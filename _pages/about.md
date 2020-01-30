@@ -9,9 +9,14 @@ redirect_from:
 ---
 
 I am Gota Morishita, currently working for CyberAgent, Inc. in Tokyo, Japan.
+I work as a research scientist.
+I studied game theory during my Masters.
 
 # Research Interests
-* Computational Economics
-  * Algorithmic Game Theory
-* Reinforcement Learning
-* Information Theory
+
+* Machine Learning
+  * reinforcement learning
+* game theory
+  * mechanism design
+* online learning
+* optimization
